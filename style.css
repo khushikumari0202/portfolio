@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: brown;
+    text-align: center;
+    text-decoration: rgb(67, 20, 20) underline;
+}
+p{
+    color: rgb(11, 11, 11);
+}
+body{
+    background-color: rgb(191, 192, 193);
+}
+h2{
+    text-align:center;
+}
+p{
+    text-align: center;
+}
+h4{
+    color: rgb(87, 87, 209);
+}
+
+#h1{
+    font-weight: lighter;
+}
+
+#navbar{
+    background-color: black;
+    height: 60px;
+}
+a{
+    margin-right: 100px;
+    text-align: center;
+    color: white;
+    padding: 30px;
+    text-decoration: none;
+}
+#one{
+    margin-left: 400px;
+}
+#submit{
+    background-color: orange;
+}
+#linkedin{
+    color: black;
+}
+#github{
+    color: black;
+}
+#instagram{
+    color: black;
+}
+
